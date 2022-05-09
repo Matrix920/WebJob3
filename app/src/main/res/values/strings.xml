@@ -1,0 +1,61 @@
+<resources>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="experience_years">Experience Years</string>
+    <string name="tel">Tel</string>
+    <string name="c_name">Company Name</string>
+    <string name="diploma_title">Diploma Title</string>
+    <string name="title">Title</string>
+    <string name="salary">Salary</string>
+    <string name="required_education">Required Education Level</string>
+    <string name="required_experience">Required Experience Level</string>
+    <string name="suitable_candidates">Suitable Candidates</string>
+    <string name="new_job">New Job</string>
+    <string name="new_company">New Company</string>
+    <string name="new_diploma">New Diploma</string>
+    <string name="register_candidate">New Candidate</string>
+    <string name="candidate">Candidate</string>
+    <string name="copmay">Company</string>
+    <string name="admin">Administrator</string>
+    <string name="education_sort">Education</string>
+    <string name="experience_sort">Experience</string>
+    <string name="empty">some fields are empty!!!</string>
+    <string name="success">Saved</string>
+    <string name="error">Error!! Not Saved</string>
+    <string name="registered">You have been registered successfully</string>
+    <string name="registerd_error">Error!! User Already Registered</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string-array name="nav_item_activity_title">
+        <item>My Diplomas</item>
+        <item>Offered Jobs</item>
+        <item>Suitable Jobs</item>
+        <item>New Diploma</item>
+    </string-array>
+
+
+    <string-array name="nav_item_activity_company_title">
+        <item>Our Jobs</item>
+        <item>New Job</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">E_WeJob</string>
+</resources>

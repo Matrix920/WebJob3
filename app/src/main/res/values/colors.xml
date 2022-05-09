@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#2c387e</color>
+    <color name="colorAccent">#6573c3</color>
+    <color name="trans_panel">#99ffffff</color>
+</resources>
